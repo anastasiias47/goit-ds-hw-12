@@ -15,6 +15,7 @@ pandas = "*"
 seaborn = "*"
 scikit-learn = "*"
 jinja2 = "*"
+keras-tuner = "*"
 
 [dev-packages]
 

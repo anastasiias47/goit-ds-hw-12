@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bd1b342c8857a13a624ebcfa66f7ee2ca5e9b9771a1d4cf525c152108821da0d"
+            "sha256": "8829e464d303766995f9c2ecb97a19885fb07c96791d455f8d82948e645b887d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -524,6 +524,14 @@
             "markers": "python_version >= '3.9'",
             "version": "==3.8.0"
         },
+        "keras-tuner": {
+            "hashes": [
+                "sha256:0bcf0220eccc74e7a6a9bd7c8e58531a1af8515019e6bc2dc495833155c07fe2",
+                "sha256:6befd25ee81476e6207d8ca7ed7dc674b8194437cfa0b127294cd00da905ff22"
+            ],
+            "index": "pypi",
+            "version": "==1.4.7"
+        },
         "kiwisolver": {
             "hashes": [
                 "sha256:01c3d31902c7db5fb6182832713d3b4122ad9317c2c5877d0539227d96bb2e50",
@@ -609,6 +617,13 @@
             ],
             "markers": "python_version >= '3.10'",
             "version": "==1.4.8"
+        },
+        "kt-legacy": {
+            "hashes": [
+                "sha256:8d5c5b3dccf348367fe9ca5b006e7ad2d1babcce62976cfc199e831ea699dcd3",
+                "sha256:dbbade58f12c6a6da6062f4b045a6395a8d4195815e3e064bc3e609b69c8a26c"
+            ],
+            "version": "==1.0.5"
         },
         "libclang": {
             "hashes": [
